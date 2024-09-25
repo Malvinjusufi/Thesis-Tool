@@ -1,0 +1,4 @@
+websocket-client>=1.2.3
+pyOpenSSL>=23.3.0
+requests>=2.31.0
+matplotlib>=3.8.2
